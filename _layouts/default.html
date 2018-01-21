@@ -14,7 +14,18 @@
 
     </div>
   </div>
-
+<!--  -->
+<div class="row">
+  <div class="large-2 large-centered social columns">
+      
+        <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i></a>
+        <a href="https://github.com/{{ site.github }}"><i class="fa fa-github"></i></a>
+        <a href="https://blog.jamigibbs.com/"><i class="fa fa-medium"></i></a>
+        <a href="https://dribbble.com/{{ site.dribbble }}"><i class="fa fa-dribbble"></i></a>
+      
+    </div>
+    </div>
+<!--  -->
   <div class="row">
 
     <div class="large-6 large-offset-3 columns">
@@ -60,27 +71,8 @@ I’m currently lending my brain to <a href="https://envato.com">Envato</a> as t
 
     </div>
 
-    <div class="large-2 large-offset-1 columns social">
-      <ul>
-        <li><a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="https://github.com/{{ site.github }}"><i class="fa fa-github"></i></a></li>
-        <li><a href="https://blog.jamigibbs.com/"><i class="fa fa-medium"></i></a></li>
-        <li><a href="https://dribbble.com/{{ site.dribbble }}"><i class="fa fa-dribbble"></i></a></li>
-      </ul>
-    </div>
 
   </div>
-
-    {% if site.google_analytics %}
-     <script>
-       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-       ga('create', '{{ site.google_analytics }}', 'auto');
-       ga('send', 'pageview');
-     </script>
-    {% endif %}
 
   </body>
 </html>

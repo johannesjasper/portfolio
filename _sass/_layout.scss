@@ -3,6 +3,7 @@
 // Styles for managing the structural hierarchy of the site.
 
 .social {
+  text-align: center ;
   ul {
     @include bp-small {
       text-align: center;

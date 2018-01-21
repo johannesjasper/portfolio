@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Jami Gibbs
-tagline:             Frontend Developer and Designer from Chicago.
-url:                 http://jamigibbs.com
+title:               Johannes Jasper
+tagline:             Backend software engineer, Berlin
+url:                 https://www.johannesjasper.de
 paginate:            1
 baseurl:             ""
 
@@ -17,7 +17,7 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
+  name:              Johannes Jasper
   url:               https://twitter.com/jamigibbs
   email:             jami0821@gmail.com
 
