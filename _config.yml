@@ -23,12 +23,35 @@ author:
 
 # Custom vars
 version:             1.0.0
-github:
-  repo:              https://github.com/jamigibbs/portfolio
-google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+
+social:
+  email:              mail@johannesjasper.de
+  twitter:            johannes_jasper
+  # facebook:           username
+  github-url:         johannesjasper
+  #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  # linkedin:         username
+  #xing:              username
+  # instagram:          johannes_jasper
+  #lastfm:            username
+  #tumblr:            username
+  #medium:            '@username'
+  #pinterest:         username
+  #foursquare:        username
+  # steam:              username
+  #dribbble:          username
+  #youtube:           username
+  #youtube-channel:   channel
+  #soundcloud:        username
+  #weibo:             username
+  flickr:             152656570@N04/
+  #codepen:           username
+  keybase:            jjasper
+  #xmpp:              username@server.com
+  #hackernews:        username
+  untappd:            elactic
+
+
 
 # Gems
 gems:

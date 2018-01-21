@@ -4,24 +4,9 @@
 
 .social {
   text-align: center ;
-  ul {
-    @include bp-small {
-      text-align: center;
-    }
-    @include bp-medium {
-      text-align: center;
-    }
-  }
-  li {
-    margin-bottom: 0.75em;
-    @include bp-small {
-      display: inline-block;
-      padding-right: 1em;
-    }
-    @include bp-medium {
-      display: inline-block;
-      padding-right: 1em;
-    }
+  margin-bottom: 0.75em;
+  a {
+    margin-left: 0.75em;
   }
   i {
     font-size: 28px;
