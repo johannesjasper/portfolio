@@ -61,7 +61,8 @@ social:
   untappd:            elactic
 
 
-
 # Gems
 gems:
   - jekyll-gist
+
+exclude: [vendor]
