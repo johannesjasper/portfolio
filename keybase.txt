@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/jjasper
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.johannesjasper.de
+  * I am jjasper (https://keybase.io/jjasper) on keybase.
+  * I have a public key ASBBBf8uZ5Z4SVmUW2JkRv9OkXerU8l0NX_Ya9xn-ngTJwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d58b482d2cae5c20b13013d66eac6ca55edd2a562b6ce2df32b77c03089765fb0a",
+      "host": "keybase.io",
+      "kid": "01204105ff2e6796784959945b626446ff4e9177ab53c974357fd86bdc67fa7813270a",
+      "uid": "0e5e1a3d1edb8f0d7533e29652656419",
+      "username": "jjasper"
+    },
+    "service": {
+      "hostname": "www.johannesjasper.de",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.23"
+  },
+  "ctime": 1516106189,
+  "expire_in": 504576000,
+  "merkle_root": {
+    "ctime": 1516106163,
+    "hash": "ffd08544345e214bafea823fb939bea5cb29093b77e0dc988f1f86d2ed49dfc759f8149f34160939d6021a52848415ba86af9c16047e0401f4d99c9e168ffb84",
+    "seqno": 1932244
+  },
+  "prev": "fd99aeaf2d6c5ab6d25c107e4a132bfb371036ff3f5339cc9581c08cfe655f75",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQQX/LmeWeElZlFtiZEb/TpF3q1PJdDV/2GvcZ/p4EycKp3BheWxvYWTFAv57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZDU4YjQ4MmQyY2FlNWMyMGIxMzAxM2Q2NmVhYzZjYTU1ZWRkMmE1NjJiNmNlMmRmMzJiNzdjMDMwODk3NjVmYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDEwNWZmMmU2Nzk2Nzg0OTU5OTQ1YjYyNjQ0NmZmNGU5MTc3YWI1M2M5NzQzNTdmZDg2YmRjNjdmYTc4MTMyNzBhIiwidWlkIjoiMGU1ZTFhM2QxZWRiOGYwZDc1MzNlMjk2NTI2NTY0MTkiLCJ1c2VybmFtZSI6ImpqYXNwZXIifSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5qb2hhbm5lc2phc3Blci5kZSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIzIn0sImN0aW1lIjoxNTE2MTA2MTg5LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTYxMDYxNjMsImhhc2giOiJmZmQwODU0NDM0NWUyMTRiYWZlYTgyM2ZiOTM5YmVhNWNiMjkwOTNiNzdlMGRjOTg4ZjFmODZkMmVkNDlkZmM3NTlmODE0OWYzNDE2MDkzOWQ2MDIxYTUyODQ4NDE1YmE4NmFmOWMxNjA0N2UwNDAxZjRkOTljOWUxNjhmZmI4NCIsInNlcW5vIjoxOTMyMjQ0fSwicHJldiI6ImZkOTlhZWFmMmQ2YzVhYjZkMjVjMTA3ZTRhMTMyYmZiMzcxMDM2ZmYzZjUzMzljYzk1ODFjMDhjZmU2NTVmNzUiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAhI4VbQQ+be4314n4VWEBq8g6w2nkeZZzRwh0grm9SPejbwhxd7jUNePNNsplz4N9yi5WSYWNd4pauq2Tj08xCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICl67nEVjt9lXvlfrV7ApWOUEZxNiBXdtkTDpipe8oP/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jjasper
+
+==================================================================
