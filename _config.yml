@@ -3,9 +3,8 @@ permalink:           pretty
 
 # Setup
 title:               Johannes Jasper
-tagline:             Backend software engineer, Berlin
+tagline:             software engineer
 url:                 https://www.johannesjasper.de
-paginate:            1
 baseurl:             ""
 
 # Assets
@@ -18,8 +17,8 @@ sass:
 # About/contact
 author:
   name:              Johannes Jasper
-  url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  url:               https://twitter.com/johannes_jasper
+  email:             mail@johannesjasper.de
 
 # Custom vars
 version:             1.0.0
@@ -65,5 +64,4 @@ social:
 
 # Gems
 gems:
-  - jekyll-paginate
   - jekyll-gist
