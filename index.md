@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 Hey there, 
-I'm Johannes Jasper, a software engineer, bike enthusiast and home-brewer from Berlin.
+I'm Johannes Jasper, a software engineer, bike enthusiast, and home-brewer from Berlin.
 
 
 
