@@ -18,7 +18,7 @@ sass:
 author:
   name:              Johannes Jasper
   url:               https://twitter.com/johannes_jasper
-  email:             mail@johannesjasper.de
+  email:             public@johannesjasper.de
 
 # Custom vars
 version:             1.0.0
@@ -34,7 +34,7 @@ kramdown:
   hard_wrap:        true 
 
 social:
-  email:              mail@johannesjasper.de
+  email:              public@johannesjasper.de
   twitter:            johannes_jasper
   # facebook:           username
   github-url:         johannesjasper
@@ -60,9 +60,19 @@ social:
   #hackernews:        username
   untappd:            elactic
 
+scholar:
+  # style: apa
+  style: chicago-fullnote-bibliography
+  locale: en
+
+  sort_by: year,month
+  order: descending
+
+  bibliography: citations.bib
 
 # Gems
 gems:
   - jekyll-gist
+  - jekyll/scholar
 
 exclude: [vendor]
