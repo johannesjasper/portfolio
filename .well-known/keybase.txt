@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jjasper
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.johannesjasper.de
+  * I am jjasper (https://keybase.io/jjasper) on keybase.
+  * I have a public key ASBtgPFUHMzBElscP3rN6SIheTteGEhzfLhVaTvt4bEskAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206d80f1541cccc1125b1c3f7acde92221793b5e1848737cb855693bede1b12c900a",
+      "host": "keybase.io",
+      "kid": "01206d80f1541cccc1125b1c3f7acde92221793b5e1848737cb855693bede1b12c900a",
+      "uid": "0e5e1a3d1edb8f0d7533e29652656419",
+      "username": "jjasper"
+    },
+    "merkle_root": {
+      "ctime": 1544563179,
+      "hash": "9e2e91236c361c44491472a23608cac3b23a291378bf57bbb6f8b2b21420735be94c4d348f090a6aa48ad5eb96365125e86863dadbf0d89e6b37604f1f3ed533",
+      "hash_meta": "440bdffa529ecff0cbbb8516bdd7675a6a32a550fc10c6fdc66036f32428fb31",
+      "seqno": 4099774
+    },
+    "service": {
+      "entropy": "bf5YUHgy8yyVT1sMxZmFAhBP",
+      "hostname": "www.johannesjasper.de",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.11.0"
+  },
+  "ctime": 1544563447,
+  "expire_in": 504576000,
+  "prev": "698068ddecd211d0150592dce2b4d60bacb183166724a1938fcbfd3453b9209e",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbYDxVBzMwRJbHD96zekiIXk7XhhIc3y4VWk77eGxLJAKp3BheWxvYWTESpcCEsQgaYBo3ezSEdAVBZLc4rTWC6yxgxZnJKGTj8v9NFO5IJ7EIBnOIRBYz/Tfx9qfmTxw75qYPf+Y5Jmhbk7xuVggM9T+AgHCo3NpZ8RAWbfQtJhcLPOpk0tzVEGpHEKNIcukRR7NidnkiHp7VvTpjzseo86S+z3hZADrL4nVOQunGyUNmlQCbcmqZsVaB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAw9WhEJlIjdZ+gaRvf8W/5a1sjuI3wWA7+cXxuN0pzso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jjasper
+
+==================================================================

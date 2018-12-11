@@ -75,4 +75,5 @@ gems:
   - jekyll-gist
   - jekyll/scholar
 
+include: [".well-known"]
 exclude: [vendor]
