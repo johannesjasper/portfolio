@@ -2,8 +2,8 @@
 layout: default
 title: Home
 ---
-Hey there, 
-I'm Johannes Jasper, a software engineer, bike enthusiast, and hobbyist home-brewer from Berlin.
+Hey, 
+I'm Johannes Jasper, a software engineer, bike enthusiast, coffee nerd, and home-brewer from Berlin.
 
 I currently work at [neXenio](https://www.nexenio.com/en), where I help building [Bdrive](https://www.nexenio.com/en/bdrive), an end-to-end encrypted, zero-knowledge file sync and sharing application.
 
