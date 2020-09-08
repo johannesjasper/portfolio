@@ -9,3 +9,9 @@ Modifications I've made:
 * pull social links below image
 * justify content
 
+## Setup
+Reminder to myself
+* `gem install bundler:1.16.1` (upgrade the next time!)
+* `bundle install`
+* `jekyll serve --watch` for local development
+* `JEKYLL_ENV=production bundle exec jekyll build --destination ~/www/www.johannesjasper.de` to deploy
