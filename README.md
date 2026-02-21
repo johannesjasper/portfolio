@@ -1,17 +1,36 @@
-# Website
-This repository contains [my personal website](https://www.johannesjasper.de).
+# johannesjasper.de
 
-## Theme
-The theme I use is forked from **[Jami Gibbs' portfolio](https://github.com/jamigibbs/portfolio)**, a pretty awesome looking and clean website, have a look!
+Personal website — plain HTML and CSS, no build step.
 
-Modifications I've made:
-* removed google analytics
-* pull social links below image
-* justify content
+## Structure
 
-## Setup
-Reminder to myself
-* `gem install bundler:1.16.1` (upgrade the next time!)
-* `bundle install`
-* `jekyll serve --watch` for local development
-* `JEKYLL_ENV=production bundle exec jekyll build --destination ~/www/www.johannesjasper.de` to deploy
+```
+index.html       — the page
+style.css        — all styles
+public/
+  profile.png    — profile photo
+  favicons/      — favicon set
+```
+
+## Development
+
+Open `index.html` directly in a browser. No server required.
+
+For live-reload during editing, any static server works:
+
+```bash
+# Python (no install needed)
+python3 -m http.server 4000
+```
+
+Then open http://localhost:4000.
+
+## Deployment
+
+Copy files to the web server:
+
+```bash
+rsync -av --delete \
+  index.html style.css public/ \
+  user@host:~/www/www.johannesjasper.de/
+```
