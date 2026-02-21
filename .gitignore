@@ -1,4 +1,5 @@
-.ruby-version
 .DS_Store
-.sass-cache/
-_site/
+.idea/
+*.swp
+*.swo
+.playwright-mcp/
