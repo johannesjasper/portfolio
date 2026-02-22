@@ -95,3 +95,28 @@ footer {
   color: #aaa;
   text-align: center;
 }
+
+.impressum {
+  margin-top: 1.25rem;
+}
+
+.impressum summary {
+  cursor: pointer;
+  list-style: none;
+  color: #bbb;
+}
+
+.impressum summary::-webkit-details-marker { display: none; }
+
+.impressum summary:hover {
+  color: #888;
+}
+
+.impressum-body {
+  margin-top: 0.75rem;
+  line-height: 1.8;
+}
+
+.impressum-body p {
+  margin-bottom: 0.4em;
+}
